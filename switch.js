@@ -38,6 +38,6 @@ switch(true) {
     case (grade >=60): 
         console.log ("D");
         break;
-        default;
+        default:
         console.log ("F");
 }
